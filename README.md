@@ -475,6 +475,8 @@ Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements
 ```
 
 ---
+<img width="473" height="424" alt="image" src="https://github.com/user-attachments/assets/d66b080d-c2b4-438b-a8e4-4c7a35c22dc2" />
+
 
 ## Refinamento Realizado
 
