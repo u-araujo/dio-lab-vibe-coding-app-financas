@@ -504,7 +504,9 @@ Essa interação permitiu identificar funcionalidades que ainda não estavam vis
 
 Protótipo funcional desenvolvido no Lovable:
 
-### acrescentar aqui o link lovable
+### (https://chat-money-buddy-55.lovable.app/relatorios)
+
+<img width="610" height="1356" alt="shared image (16)" src="https://github.com/user-attachments/assets/22d18dd1-97e9-4508-9fb0-028069251bcd" />
 
 ---
 
